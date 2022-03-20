@@ -1,1 +1,1 @@
-Proyecto de Hoteles
+Proyecto de Guia de Hoteles
